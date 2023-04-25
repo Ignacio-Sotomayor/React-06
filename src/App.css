@@ -1,0 +1,19 @@
+.contenedor{
+    margin-top: 30px;
+}
+.tarea{
+    width: 800px;
+    margin-right: 100px;
+}
+.form{
+    margin-bottom: 10px;
+}
+.centrado{
+    text-align: center;
+}
+.listado{
+    width: 900px;
+}
+.boton{
+    width: 200px;
+}
